@@ -1,0 +1,10 @@
+[package]
+name = "os_fingerprint"
+version = "0.1.0"
+authors = ["Michael House <michaelhouse@gmx.us>"]
+edition = "2018"
+
+[dependencies]
+sys-info = "*"
+chrono = "0.4"
+chrono-tz = "0.5"
