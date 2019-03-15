@@ -17,3 +17,5 @@ This tool uses semi-unique aspects of the host system to generate a u64 value th
 
 ### User Fingerprint 
 #### hashes /etc/passwd to identify system by users
+
+Use `cargo run` to test it.
